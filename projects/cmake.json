@@ -1,14 +1,12 @@
 {
+	"version": "3.12.1",
 	"windows": {
-		"32": "",
-		"64": ""
+		"64": "https://cmake.org/files/LatestRelease/cmake-3.12.1-win64-x64.zip"
 	},
 	"linux": {
-		"32": "",
-		"64": ""
+		"64": "https://cmake.org/files/LatestRelease/cmake-3.12.1-Linux-x86_64.tar.gz"
 	},
 	"mac": {
-		"32": "",
-		"64": ""
+		"64": "https://cmake.org/files/LatestRelease/cmake-3.12.1-Darwin-x86_64.tar.gz"
 	}
 }
