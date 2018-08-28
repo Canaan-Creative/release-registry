@@ -1,12 +1,9 @@
 {
 	"version": "1",
 	"windows": {
-		"64": "https://github.com/Canaan-Creative/maix-toolchain/releases/download/preview1/maix-toolchain-win-amd64-preview1.zip"
+		"64": "https://s3.cn-northwest-1.amazonaws.com.cn/maix-ide/dist/maix-toolchain-win-amd64-preview1.zip"
 	},
 	"linux": {
-		"64": "https://github.com/Canaan-Creative/maix-toolchain/releases/download/preview1/maix-toolchain-ubuntu-amd64-preview1.tar.gz"
-	},
-	"mac": {
-		"64": ""
+		"64": "https://s3.cn-northwest-1.amazonaws.com.cn/maix-ide/dist/maix-toolchain-ubuntu-amd64-preview1.tar.gz"
 	}
 }
