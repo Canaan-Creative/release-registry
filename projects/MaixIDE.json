@@ -1,5 +1,6 @@
 {
-	"version": "0.0.0",
+	"version": "1.27.0",
+	"homepageUrl": "",
 	"windows": {
 		"64": ""
 	},
