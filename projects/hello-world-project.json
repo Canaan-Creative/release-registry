@@ -1,4 +1,4 @@
 {
 	"version": "0.0.2",
-	"source": "https://s3.cn-northwest-1.amazonaws.com.cn/maix-ide/dist/hello-world-1.zip"
+	"source": "dist/hello-world-1.zip"
 }

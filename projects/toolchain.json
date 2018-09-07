@@ -1,9 +1,9 @@
 {
 	"version": "1",
 	"windows": {
-		"64": "https://s3.cn-northwest-1.amazonaws.com.cn/maix-ide/dist/maix-toolchain-win-amd64-preview1.zip"
+		"64": "dist/maix-toolchain-win-amd64-preview1.zip"
 	},
 	"linux": {
-		"64": "https://s3.cn-northwest-1.amazonaws.com.cn/maix-ide/dist/maix-toolchain-ubuntu-amd64-preview1.tar.gz"
+		"64": "dist/maix-toolchain-ubuntu-amd64-preview1.tar.gz"
 	}
 }
