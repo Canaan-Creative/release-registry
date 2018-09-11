@@ -1,9 +1,9 @@
 {
-	"version": "1",
+	"version": "2",
 	"windows": {
-		"64": "dist/maix-toolchain-win-amd64-preview1.zip"
+		"64": "dist/maix-toolchain-win-64-2.zip"
 	},
 	"linux": {
-		"64": "dist/maix-toolchain-ubuntu-amd64-preview1.tar.gz"
+		"64": "dist/maix-toolchain-linux-64-1.tar.gz"
 	}
 }
