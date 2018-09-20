@@ -1,6 +1,6 @@
 {
-	"version": "1.27.0",
-	"homepageUrl": "",
+	"version": "1.27.0-beta",
+	"homepageUrl": "https://kendryte.com/downloads/",
 	"windows": {
 		"64": ""
 	},
