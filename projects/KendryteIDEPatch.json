@@ -1,9 +1,9 @@
 {
-	"version": "20180920-1339",
+	"version": "20180926",
 	"windows": {
-		"generic": "patch/p1.zip"
+		"generic": "patch/update-20180926.zip"
 	},
 	"linux": {
-		"generic": "patch/p1.zip"
+		"generic": "patch/update-20180926.zip"
 	}
 }
