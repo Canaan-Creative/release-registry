@@ -1,20 +1,56 @@
- [
-    {"name": "aes_128_test", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/aes_128_test.tar.gz"}},
-    {"name": "aes_192_test", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/aes_192_test.tar.gz"}},
-    {"name": "aes_256_test", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/aes_256_test.tar.gz"}},
-    {"name": "dvp_ov", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/dvp_ov.tar.gz"}},
-    {"name": "fft_test", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/fft_test.tar.gz"}},
-    {"name": "flash_w25qxx", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/flash_w25qxx.tar.gz"}},
-    {"name": "gpio_led", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/gpio_led.tar.gz"}},
-    {"name": "gpiohs_led", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/gpiohs_led.tar.gz"}},
-    {"name": "hello_world", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/hello_world.tar.gz"}},
-    {"name": "lcd", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/lcd.tar.gz"}},
-    {"name": "mic_play", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/mic_play.tar.gz"}},
-    {"name": "play_pcm", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/play_pcm.tar.gz"}},
-    {"name": "pwm", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/pwm.tar.gz"}},
-    {"name": "rtc", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/rtc.tar.gz"}},
-    {"name": "rtc_sd3068", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/rtc_sd3068.tar.gz"}},
-    {"name": "sha256_test", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/sha256_test.tar.gz"}},
-    {"name": "uart", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/uart.tar.gz"}},
-    {"name": "watchdog", "versions": {"versionName": "1.0.0", "downloadUrl": "examples/watchdog.tar.gz"}},
+[
+    {"name": "aes_128_test", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/aes_128_test.tar.gz"},
+    ]},
+    {"name": "aes_192_test", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/aes_192_test.tar.gz"},
+    ]},
+    {"name": "aes_256_test", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/aes_256_test.tar.gz"},
+    ]},
+    {"name": "dvp_ov", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/dvp_ov.tar.gz"},
+    ]},
+    {"name": "fft_test", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/fft_test.tar.gz"},
+    ]},
+    {"name": "flash_w25qxx", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/flash_w25qxx.tar.gz"},
+    ]},
+    {"name": "gpio_led", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/gpio_led.tar.gz"},
+    ]},
+    {"name": "gpiohs_led", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/gpiohs_led.tar.gz"},
+    ]},
+    {"name": "hello_world", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/hello_world.tar.gz"},
+    ]},
+    {"name": "lcd", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/lcd.tar.gz"},
+    ]},
+    {"name": "mic_play", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/mic_play.tar.gz"},
+    ]},
+    {"name": "play_pcm", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/play_pcm.tar.gz"},
+    ]},
+    {"name": "pwm", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/pwm.tar.gz"},
+    ]},
+    {"name": "rtc", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/rtc.tar.gz"},
+    ]},
+    {"name": "rtc_sd3068", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/rtc_sd3068.tar.gz"},
+    ]},
+    {"name": "sha256_test", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/sha256_test.tar.gz"},
+    ]},
+    {"name": "uart", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/uart.tar.gz"},
+    ]},
+    {"name": "watchdog", "versions": [
+        {"versionName": "1.0.0", "downloadUrl": "examples/watchdog.tar.gz"},
+    ]},
 ]
