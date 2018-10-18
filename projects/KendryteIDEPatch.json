@@ -1,9 +1,0 @@
-{
-	"version": "20180927",
-	"windows": {
-		"generic": "patch/update-20180927.zip"
-	},
-	"linux": {
-		"generic": "patch/update-20180927.zip"
-	}
-}

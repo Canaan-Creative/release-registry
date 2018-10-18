@@ -1,0 +1,47 @@
+[
+	{
+		"name": "sdk-standalone",
+		"icon": "https://s3.cn-north-1.amazonaws.com.cn/kendryte-forum/uploads/e5e4e2f9-512e-4e68-bbcf-982e607372bc.png",
+		"description": "Official SDK. Standalone version.",
+		"versions": [
+			{
+				"versionName": "0.0.0",
+				"downloadUrl": "internal/sdk-standalone-x.0.0.zip"
+			},
+			{
+				"versionName": "0.1.0",
+				"downloadUrl": "internal/sdk-standalone-x.0.0.zip"
+			},
+			{
+				"versionName": "1.0.0",
+				"downloadUrl": "internal/sdk-standalone-1.0.0.zip"
+			}
+		]
+	},
+	{
+		"name": "AAA",
+		"icon": "https://github.com/favicon.ico",
+		"homepage": "https://github.com/",
+		"versions": []
+	},
+	{
+		"name": "BBB",
+		"versions": []
+	},
+	{
+		"name": "CCC",
+		"versions": []
+	},
+	{
+		"name": "DDD",
+		"versions": []
+	},
+	{
+		"name": "EEE",
+		"versions": []
+	},
+	{
+		"name": "FFF",
+		"versions": []
+	}
+]

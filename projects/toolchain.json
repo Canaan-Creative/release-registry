@@ -1,9 +1,0 @@
-{
-	"version": "3",
-	"windows": {
-		"64": "dist/maix-toolchain-win-64-3.zip"
-	},
-	"linux": {
-		"64": "dist/maix-toolchain-linux-64-1.tar.gz"
-	}
-}

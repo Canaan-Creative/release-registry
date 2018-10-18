@@ -1,0 +1,17 @@
+{
+	"version": "1.28.0-beta",
+	"homepageUrl": "https://kendryte.com/downloads/",
+	"windows": "",
+	"linux": "",
+    "patches":[
+        {
+            "version": "20180930.1",
+            "windows": {
+                "generic": "patch/update-20180930.1-windows.zip"
+            },
+            "linux": {
+                "generic": "patch/update-20180930.1-linux.zip"
+            }
+        }
+    ]
+}
